@@ -2,7 +2,7 @@ https://github.com/RooCodeInc/Roo-Code - "This repository was archived by the ow
 
 ## Finding: Auto-approve command allowlist bypassed via a `*` glob, whose token discards the word — including a nested command substitution — from the approval check
 
-Affected Version: commit b867ec9 (v3.53.0)
+Affected Version: commit b867ec9 (v3.53.0) and commit 27001b2 (v3.54.0)
 
 ### Summary
 
